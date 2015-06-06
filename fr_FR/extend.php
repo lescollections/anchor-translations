@@ -7,6 +7,9 @@ return array(
 	'fields' => 'Champs personnalisés',
 	'fields_desc' => 'Créer des champs additionnels',
 
+	'pagetypes' => 'Type de page',
+	'pagetypes_desc' => 'Créer différents types de page',
+
 	'variables' => 'Variables du site',
 	'variables_desc' => 'Créer des métadonnées additionnelles',
 
